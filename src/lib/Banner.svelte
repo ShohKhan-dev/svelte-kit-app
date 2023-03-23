@@ -48,15 +48,6 @@
   }
 
 
-.site-main{
-    margin-top: 8rem;
-
-    min-height: 100%;
-    display: grid;
-    grid-template-rows: auto 1fr auto;
-
-}
-
 /* .site-main .site-banner {
     background: url(../img/home_banner.png) no-repeat 90% 30%;
 } */
@@ -67,16 +58,6 @@
     font-family: var(--poppins);
 }
 
-.site-banner .site-title h3::after{
-    content: " ";
-    display: inline-block;
-    margin-left: 5%;
-    transform: translateY(-10px);
-}
-
-.site-main .site-banner .site-title h1{
-    font-size: 5rem;
-}
 
 .site-main .site-banner .site-title h4{
     font-size: 1.5rem;
