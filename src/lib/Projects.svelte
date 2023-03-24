@@ -1,4 +1,5 @@
 <script type="ts">
+    import {base} from "$app/paths"
 
 </script>
 
@@ -14,7 +15,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="http://65.109.138.63/">
-                            <img src="/img/project.jpg" alt="portfolio-9" class="img-fluid">
+                            <img src="{base}/img/project.jpg" alt="portfolio-9" class="img-fluid">
                         </a>
                     </div>
                     <div class="title py-4">
@@ -28,7 +29,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="https://megafilms.netlify.app/" target="blank_">
-                        <img src="/img/megafilms.jpg" alt="portfolio-1" class="project-img img-fluid" height="400" width="400">
+                        <img src="{base}/img/megafilms.jpg" alt="portfolio-1" class="project-img img-fluid" height="400" width="400">
                         </a>
                     </div>
                     <div class="title py-4">
@@ -42,7 +43,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="http://infonutrition.undo.it/" target="blank_">
-                            <img src="/img/project.jpg" alt="portfolio-8" class="img-fluid">
+                            <img src="{base}/img/project.jpg" alt="portfolio-8" class="img-fluid">
                         </a>
                     </div>
                     <div class="title py-4">
@@ -56,7 +57,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="https://app.novio-eld.com/" target="blank_">
-                            <img src="/img/project.jpg" alt="portfolio-2" class="project-img img-fluid">
+                            <img src="{base}/img/project.jpg" alt="portfolio-2" class="project-img img-fluid">
                         </a>
                     </div>
                     <div class="title py-4">
@@ -69,7 +70,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="https://link.springer.com/chapter/10.1007/978-3-030-75075-6_27" target="blank_">
-                            <img src="/img/project.jpg" alt="portfolio-3" class="img-fluid">
+                            <img src="{base}/img/project.jpg" alt="portfolio-3" class="img-fluid">
                         </a>
                     </div>
                     <div class="title py-4">
@@ -82,7 +83,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="https://github.com/ShohKhan-dev/mythought" target="blank_">
-                            <img src="/img/project.jpg" alt="portfolio-4" class="img-fluid">
+                            <img src="{base}/img/project.jpg" alt="portfolio-4" class="img-fluid">
                         </a>
                     </div>
                     <div class="title py-4">
@@ -96,7 +97,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="https://github.com/ShohKhan-dev/portfolio-website" target="blank_">
-                            <img src="/img/project.jpg" alt="portfolio-8" class="img-fluid">
+                            <img src="{base}/img/project.jpg" alt="portfolio-8" class="img-fluid">
                         </a>
                     </div>
                     <div class="title py-4">
@@ -110,7 +111,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="https://simpblog.herokuapp.com/" target="blank_">
-                            <img src="/img/project.jpg" alt="portfolio-5" class="img-fluid">
+                            <img src="{base}/img/project.jpg" alt="portfolio-5" class="img-fluid">
                         </a>
                     </div>
                     <div class="title py-4">
@@ -125,7 +126,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="https://github.com/ShohKhan-dev/COVID-19-stats" target="blank_">
-                            <img src="/img/project.jpg" alt="portfolio-6" class="img-fluid">
+                            <img src="{base}/img/project.jpg" alt="portfolio-6" class="img-fluid">
                         </a>
                     </div>
                     <div class="title py-4">
@@ -138,7 +139,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="http://t.me/SH_Hamrakulov_bot" target="blank_">
-                            <img src="/img/project.jpg" alt="portfolio-7" class="img-fluid">
+                            <img src="{base}/img/project.jpg" alt="portfolio-7" class="img-fluid">
                         </a>
                     </div>
                     <div class="title py-4">
@@ -152,7 +153,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="https://github.com/ShohKhan-dev/Weatherbot" target="blank_">
-                            <img src="/img/project.jpg" alt="portfolio-7" class="img-fluid">
+                            <img src="{base}/img/project.jpg" alt="portfolio-7" class="img-fluid">
                         </a>
                     </div>
                     <div class="title py-4">
@@ -168,7 +169,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="https://github.com/ShohKhan-dev/NumberPlateDetection" target="blank_">
-                            <img src="/img/project.jpg" alt="portfolio-8" class="img-fluid">
+                            <img src="{base}/img/project.jpg" alt="portfolio-8" class="img-fluid">
                         </a>
                     </div>
                     <div class="title py-4">
@@ -182,7 +183,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="https://github.com/ShohKhan-dev/Image-face-detector" target="blank_">
-                            <img src="/img/project.jpg" alt="portfolio-8" class="img-fluid">
+                            <img src="{base}/img/project.jpg" alt="portfolio-8" class="img-fluid">
                         </a>
                     </div>
                     <div class="title py-4">
@@ -196,7 +197,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="https://github.com/ShohKhan-dev/Movement-detector" target="blank_">
-                            <img src="/img/project.jpg" alt="portfolio-8" class="img-fluid">
+                            <img src="{base}/img/project.jpg" alt="portfolio-8" class="img-fluid">
                         </a>
                     </div>
                     <div class="title py-4">
@@ -210,7 +211,7 @@
                 <div class="our-project">
                     <div class="img">
                         <a class="test-popup-link" href="https://github.com/ShohKhan-dev/Movement-detector" target="blank_">
-                            <img src="/img/project.jpg" alt="portfolio-8" class="img-fluid">
+                            <img src="{base}/img/project.jpg" alt="portfolio-8" class="img-fluid">
                         </a>
                     </div>
                     <div class="title py-4">

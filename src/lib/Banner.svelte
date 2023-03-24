@@ -1,4 +1,5 @@
 <script type="ts">
+    import {base} from "$app/paths"
 
 </script>
 
@@ -20,15 +21,15 @@
                     </div>
                     <div class="d-flex flex-row flex-wrap my-3">
                         
-                        <a href="/" type="button" class="btn button primary-button mr-4">Read Blog</a>
-                        <a href="/about" type="button" class="btn button secondary-button">About Me</a>
+                        <a href="{base}/" type="button" class="btn button primary-button mr-4">Read Blog</a>
+                        <a href="{base}/about" type="button" class="btn button secondary-button">About Me</a>
                         <!-- <button type="button" class="btn button secondary-button">About Me</button> -->
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 banner-image">
 
-                <img src="/img/banner_img.png" alt="banner-img" class="img-fluid">
+                <img src="{base}/img/banner_img.png" alt="banner-img" class="img-fluid">
             </div>
         </div>
     </div>

@@ -1,4 +1,5 @@
 <script type="ts">
+    import {base} from "$app/paths"
 
 </script>
 
@@ -9,7 +10,7 @@
             <div class="col-lg-6 col-md-12">
                 
                 <div class="about-image">
-                    <img src="/img/about-us.png" alt="About us" class="img-fluid" width="500" height="500">
+                    <img src="{base}/img/about-us.png" alt="About us" class="img-fluid" width="500" height="500">
                 </div>
                 
 
