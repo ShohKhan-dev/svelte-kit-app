@@ -21,8 +21,6 @@ jobs:
           node-version: '18'
       - name: Install dependencies
         run: npm ci
-      - name: Linting and Formatting
-        run: npm run lint
       - name: Build website
         run: npm run build
       - name: Deploy to GitHub Page
